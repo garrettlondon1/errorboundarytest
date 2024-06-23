@@ -1,0 +1,20 @@
+@inherits ErrorBoundary
+
+@if (CurrentException != null)
+{
+    <p>Error</p>
+}
+else
+{
+    @this.ChildContent
+}
+
+@code {
+
+    protected override Task OnErrorAsync(Exception exception)
+    {
+        Console.WriteLine(exception.Message);
+        return base.OnErrorAsync(exception);
+    }
+
+}

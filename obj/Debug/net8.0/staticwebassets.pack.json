@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/garrettlondon/Github/StaticErrorBoundary/obj/Debug/net8.0/scopedcss/projectbundle/StaticErrorBoundary.bundle.scp.css",
+      "PackagePath": "staticwebassets/StaticErrorBoundary.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/garrettlondon/Github/StaticErrorBoundary/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/garrettlondon/Github/StaticErrorBoundary/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/garrettlondon/Github/StaticErrorBoundary/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/garrettlondon/Github/StaticErrorBoundary/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.StaticErrorBoundary.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.StaticErrorBoundary.props",
+      "PackagePath": "build\\StaticErrorBoundary.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.StaticErrorBoundary.props",
+      "PackagePath": "buildMultiTargeting\\StaticErrorBoundary.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.StaticErrorBoundary.props",
+      "PackagePath": "buildTransitive\\StaticErrorBoundary.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
